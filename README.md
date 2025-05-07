@@ -47,8 +47,6 @@ DotNeuralNet
 
 - Train / Validation log of yolov8-m model
   ![yolov8 log](./assets/log_yolov8_long.png)
-- Train / Validation log of yolov5-m model available at [🔗 WandB](https://wandb.ai/snoop2head/YOLOv5/runs/mqvmh4nc)
-  ![yolov8 log](./assets/log_yolov5.png)
 
 ### Installation
 
